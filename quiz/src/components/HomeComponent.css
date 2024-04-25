@@ -1,0 +1,14 @@
+.home-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 10vw;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

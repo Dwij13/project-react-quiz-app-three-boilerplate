@@ -1,0 +1,22 @@
+.result{
+    width: 50vw;
+    height: 25vw;
+    background-color: white;
+    padding-top: 10px;
+}
+h1{
+    color: white;
+}
+.score{
+    color: black;
+}
+
+.message1{
+    font-size: 20px;
+}
+.para{
+    width: 65%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 18%;
+}
